@@ -1,9 +1,6 @@
 header,
-.section0,
-.section3 {
-    background-color: #011742;
-
-
+.section0 {
+    background-image: url('images_ibs/back.png');
 }
 
 .call {
@@ -34,9 +31,14 @@ span {
 .section1 {
     background-image: url('images_ibs/BACKGROUND.png');
     background-repeat: no-repeat;
+    background-color: #011742;
+
+
+}
+
+.section3 {
+    background-image: url('images_ibs/back3.png');
     background-color: #002060;
-
-
 }
 
 .p1 {
@@ -69,7 +71,7 @@ span {
 }
 
 .section2 {
-    background-color: #011742;
+    background-image: url('images_ibs/back.png');
 
 }
 
@@ -89,12 +91,6 @@ span {
 
 }
 
-nav {
-    border-bottom: 2px dashed white;
-    background-color: #011742;
-
-}
-
 .logo {
     box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
     border-radius: 10px;
@@ -110,17 +106,13 @@ nav {
     border-radius: 40px;
 }
 
-.section3 {
-    background-color: #011742;
-}
-
 .yo {
     height: 600px;
 }
 
 footer {
-     background-color: #011742;
-    border-top: 2px dashed white;
+    background-image: url('images_ibs/back.png');
+
 }
 
 .lo {
