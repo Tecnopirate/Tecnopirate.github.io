@@ -1,6 +1,8 @@
 header,
-.section0 {
+.section0,
+.section3 {
     background-color: #002060;
+
 
 }
 
@@ -33,7 +35,7 @@ span {
     background-image: url('images_ibs/BACKGROUND.png');
     background-repeat: no-repeat;
     background-color: #002060;
-    
+
 
 }
 
