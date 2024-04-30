@@ -1,4 +1,7 @@
-header,
+.section0{
+    height: 300px;
+}
+header, nav,
 .section0 {
     background-image: url('images_ibs/back.png');
 }
@@ -87,7 +90,8 @@ span {
 }
 
 .y {
-    padding-top: 20px;
+    padding-top: 50px;
+    margin-top: 80px;
 
 }
 
