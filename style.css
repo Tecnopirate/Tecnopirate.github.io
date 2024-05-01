@@ -1,7 +1,9 @@
-.section0{
-    height: 300px;
+.section0 {
+    height: 280px;
 }
-header, nav,
+
+header,
+nav,
 .section0 {
     background-image: url('images_ibs/back.png');
 }
@@ -23,7 +25,8 @@ a {
 
 }
 
-p {
+p,
+.t {
     font-family: "Montserrat", sans-serif;
 }
 
@@ -79,7 +82,7 @@ span {
 }
 
 .h1-2 {
-    height: 80px;
+    height: 70px;
 
 
 }
@@ -91,7 +94,7 @@ span {
 
 .y {
     padding-top: 50px;
-    margin-top: 80px;
+    margin-top: 30px;
 
 }
 
