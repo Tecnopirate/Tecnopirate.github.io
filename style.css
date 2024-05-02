@@ -20,13 +20,15 @@ nav,
 h1,
 h2,
 h3,
+h5,
 a {
     font-family: "Bebas Neue", sans-serif;
 
 }
 
 p,
-.t {
+.t,
+.f {
     font-family: "Montserrat", sans-serif;
 }
 
