@@ -6,6 +6,7 @@ header,
 nav,
 .section0 {
     background-image: url('images_ibs/back.png');
+
 }
 
 .call {
@@ -37,15 +38,15 @@ span {
 }
 
 .section1 {
-    background-image: url('images_ibs/BACKGROUND.png');
-    background-repeat: no-repeat;
-    background-color: #011742;
+    background-image: url('images_ibs/img1.jpg');
+    background-repeat: repeat;
+
 
 
 }
 
 .section3 {
-    background-image: url('images_ibs/back3.png');
+    background-image: url('images_ibs/r.avif');
     background-color: #002060;
 }
 
@@ -132,4 +133,12 @@ footer {
     position: relative;
     bottom: 5px;
     left: 255px;
+}
+
+.h2-s {
+    color: #002060;
+}
+
+body {
+    min-width: 320px;
 }
